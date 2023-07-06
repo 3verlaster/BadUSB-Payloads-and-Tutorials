@@ -17,6 +17,7 @@ Here I will tell you how to turn your smartphone into a tool that can carry out 
 ## How it works ❓
 In our case, we will use the program "USB Gadget Tool". It simulates HID (Human Interface Devices) from your smartphone.
 When you connect your smartphone to your computer, it looks at what kind of device it is. Since we are imitating HID, the computer will consider our phone as a keyboard. It's funny, isn't it?
+As long as your phone is simulating HID, you can simulate very fast keystrokes (1000 WPM)
 
 ## 🧰 What you need 🧰
 1. Rooted smartphone
