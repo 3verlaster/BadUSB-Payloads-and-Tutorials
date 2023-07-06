@@ -1,0 +1,9 @@
+REM --------------------------------------------
+REM Author: https://github.com/3verlaster
+REM ---------------------------------------------
+DELAY 1000
+GUI r
+DELAY 500
+STRING powershell -c "$wmp = New-Object -ComObject WMPlayer.OCX; $wmp.cdromcollection.item(0).eject()"
+ENTER
+

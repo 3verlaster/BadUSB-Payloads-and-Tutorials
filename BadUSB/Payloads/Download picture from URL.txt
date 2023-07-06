@@ -1,0 +1,12 @@
+REM --------------------------------------------
+REM Author: https://github.com/3verlaster
+REM ---------------------------------------------
+DELAY 1000
+GUI r
+DELAY 500
+STRING <HERE DIRECT LINK TO PICTUTRE>
+ENTER
+DELAY 5000
+CTRL s
+DELAY 4777
+ENTER
