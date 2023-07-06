@@ -6,7 +6,7 @@
 
 <p>
 <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/3verlaster/BadUSB-Payloads-and-Tutorials" />
-<img alt="GitHub Issues" src="https://img.shields.io/github/issues/3verlaster/BadUSB-Payloads-and-Tutorials" />
+<img alt="GitHub Issues" src="https://img.shields.io/github/issues/3verlaster/BadUSB-Payloads-and-Tutorialss" />
 <img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/3verlaster/BadUSB-Payloads-and-Tutorials" />
 <img alt="Github License" src="https://img.shields.io/badge/License-MIT-green.svg" />
 </p>
