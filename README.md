@@ -14,12 +14,16 @@
 ## Briefly about the repository, and what we will do
 Here I will tell you how to turn your smartphone into a tool that can carry out HID Attacks. Simply put - BadUSB from your phone
 
+## How it works ❓
+In our case, we will use the program "USB Gadget Tool". It simulates HID (Human Interface Devices) from your smartphone.
+When you connect your smartphone to your computer, it looks at what kind of device it is. Since we are imitating HID, the computer will consider our phone as a keyboard. It's funny, isn't it?
+
 ## 🧰 What you need 🧰
 1. Rooted smartphone
 2. The kernel on the phone that supports ConfigFS
 3. Straight arms
 
-## 🛠️ Installation and setup USB Gadget Tool🛠️
+## 🛠️ Installation and setup USB Gadget Tool 🛠️
 1. Download and install "USB Gadget Tool_0.4.apk" from BadUSB/APK`s
 2. Open USB Gadget Tool
 3. Follow the pictures
