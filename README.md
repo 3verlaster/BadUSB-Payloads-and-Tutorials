@@ -20,10 +20,16 @@ Here I will tell you how to turn your smartphone into a tool that can carry out 
 3. Straight arms
 
 ## 🛠️ Installation and setup USB Gadget Tool🛠️
-1. Download and install USB Gadget Tool_0.4.apk from BadUSB/APK`s
+1. Download and install "USB Gadget Tool_0.4.apk" from BadUSB/APK`s
 2. Open USB Gadget Tool
 3. Follow the pictures
 4. ![USB - Step 1](assets/usb_step1.jpg) Click on "+"
 5. ![USB - Step 2](assets/usb_step2.jpg) Click on "Mouse & Keyboard"
 6. ![USB - Step 3](assets/usb_step3.jpg) Click on slider [ON]
 7. Congrats! You have set up a simulated smartphone as a HID Device
+
+## 🐤 Installation and setup Rubber Ducky 🐤🛠
+1. Download and install "rucky+2.3.apk" from BadUSB/APK`s
+2. Open Rucky.
+3. Grant it SU - [Superuser] mode.
+4. Congrats! Now you can use your phone as a HID attack tool.
