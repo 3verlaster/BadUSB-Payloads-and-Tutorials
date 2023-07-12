@@ -36,7 +36,7 @@ Click on "Mouse & Keyboard"
 Click on slider [ON]
 10. Congrats! You have set up a simulated smartphone as a HID Device
 
-## 🐤 Installation and setup Rubber Ducky 🐤🛠
+## 🐤 Installation and setup Rubber Ducky 🐤
 1. Download and install "rucky+2.3.apk" from BadUSB/APK`s
 2. Open Rucky.
 3. Grant it SU - [Superuser] mode.
